@@ -6,6 +6,6 @@
     />
 </p>
 
-Llamaquellama es un proyecto creado por el grupo 5 de [Digital House]
+**Llamaquellama es un proyecto creado por el grupo 5 de [Digital House].**
 
 [Digital House]: https://digitalhouse.com/
