@@ -1,2 +1,3 @@
+<p align="center">
 # newrepotest
-Prueba Git
+</p>
